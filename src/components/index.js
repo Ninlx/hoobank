@@ -6,6 +6,7 @@ import CardDeal from "./CardDeal";
 import Clients from "./Clients";
 import CTA from "./CTA";
 import Feedback from "./Feedback";
+import FeedbackCard from "./FeedbackCard";
 import Footer from "./Footer";
 import GetStarted from "./GetStarted";
 import Navbar from "./Navbar";
@@ -21,6 +22,7 @@ export {
   Clients,
   CTA,
   Feedback,
+  FeedbackCard,
   Footer,
   GetStarted,
   Navbar,
